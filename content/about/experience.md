@@ -25,8 +25,8 @@ experience:
 
   - title: Shop Staff
     company: Olin College Machine Shop
-    company_url: ''
-    company_logo: org-x
+    company_url: 'https://machineshop.olin.edu/'
+    company_logo: olin-shop
     date_start: '2023-01-15'
     description: |2-
         * Foster inclusivity, accessibility, and creativity for students
@@ -36,7 +36,7 @@ experience:
   - title: Researcher
     company: TWIST Lab
     company_url: ''
-    company_logo: org-x
+    company_logo: twist-lab
     date_start: '2022-08-01'
     description: |2-
         * Researching bio-mimetic soft robotic systems
@@ -45,8 +45,8 @@ experience:
 
   - title: Help Desk Staff
     company: Olin College IT Help Desk
-    company_url: ''
-    company_logo: org-x
+    company_url: 'https://wikis.olin.edu/it/doku.php'
+    company_logo: olin
     date_start: '2023-01-15'
     description: |2-
         * Diagnosed hardware issues and made computer repairs
@@ -56,7 +56,7 @@ experience:
   - title: Shop Fellow
     company: Olin College Machine Shop
     company_url: ''
-    company_logo: org-x
+    company_logo: olin-shop
     date_start: '2023-06-15'
     date_end: '2023-08-01'
     description: |2-
