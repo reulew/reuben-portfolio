@@ -11,7 +11,7 @@ tags:
   - CS
 links: []
 image:
-  filename: compare_emotions.png
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
