@@ -2,7 +2,7 @@
 widget: about.avatar
 headless: true
 weight: 10
-author: admin
+author: reuben-lewis
 widget_id: Intro Text
 ---
 👋 Hi, there! I'm **Reuben**, a student at the Olin College of Engineering studying engineering with a concentration in Robotics
