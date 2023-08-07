@@ -1,7 +1,7 @@
 ---
 title: Reuben Lewis
 role: Robotics Engineering Student
-avatar_filename: avatar
+avatar_filename: work_portrait
 bio: I am a student at the Franklin W. Olin College of Engineering studying
   Engineering with a concentration in robotics.
 social:
