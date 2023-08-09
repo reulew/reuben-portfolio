@@ -1,6 +1,6 @@
 ---
 title: Autonomous Maze Solving Robot
-date: 2023-08-06T06:14:53.413Z
+date: 2023-08-07T06:14:53.413Z
 summary: Myself along with two classmates programed a robot to scan a maze with
   LIDAR and then navigate to a predetermined location.
 draft: false
