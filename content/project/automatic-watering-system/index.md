@@ -1,6 +1,6 @@
 ---
 title: Automatic Watering System
-date: 2023-08-07T08:36:31.344Z
+date: 2023-08-05T08:36:31.344Z
 summary: I created an automated watering system to care for my plants.
 draft: false
 featured: false
