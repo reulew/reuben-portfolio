@@ -5,6 +5,10 @@ summary: Myself along with two classmates programed a robot to scan a maze with
   LIDAR and then navigate to a predetermined location.
 draft: false
 featured: false
+authors:
+  - reuben-lewis
+tags:
+  - CS
 image:
   filename: featured.jpg
   focal_point: Smart
