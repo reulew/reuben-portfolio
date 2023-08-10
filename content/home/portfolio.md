@@ -25,15 +25,6 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-    - name: All
-      tag: '*'
-    - name: Mechanical
-      tag: ME
-    - name: Software
-      tag: CS
-    - name: Other
-      tag: OTH
 
 design:
   columns: '1'
