@@ -7,7 +7,7 @@ bio: I am a student at the Franklin W. Olin College of Engineering studying
 social:
   - icon: envelope
     icon_pack: fas
-    link: about/#contact
+    link: /contact
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/reubensl/
