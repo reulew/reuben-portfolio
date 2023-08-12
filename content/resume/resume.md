@@ -24,5 +24,5 @@ type: landing
 }
 </style>
 <div class="resume">
-    <iframe class="resume-frame" src="https://lewis.engineer/uploads/resume.pdf"></iframe>
+    <embed class="resume-frame" src="/uploads/resume.pdf" type="application/pdf">
 </div>
