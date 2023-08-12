@@ -7,6 +7,6 @@ main:
   - name: Experience
     url: about/
     weight: 10
-  - name: Contact
-    url: /contact
+  - name: Resume
+    url: /resume
     weight: 20
