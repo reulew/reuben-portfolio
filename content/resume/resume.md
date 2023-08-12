@@ -24,5 +24,5 @@ type: landing
 }
 </style>
 <div class="resume">
-    <iframe class="resume-frame" src="https://rxresu.me/r/RGlsePMH"></iframe>
+    <iframe class="resume-frame" src="https://lewis.engineer/uploads/resume.pdf"></iframe>
 </div>
