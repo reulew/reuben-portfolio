@@ -8,5 +8,5 @@ main:
     url: about/
     weight: 10
   - name: Resume
-    url: /resume
+    url: /uploads/resume.pdf
     weight: 20
