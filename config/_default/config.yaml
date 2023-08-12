@@ -80,6 +80,7 @@ related:
       weight: 70
 security:
   _merge: deep
+  allow_frame: true
 sitemap:
   _merge: deep
 minify:
